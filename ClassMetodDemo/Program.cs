@@ -12,6 +12,7 @@ namespace ClassMetodDemo
             musteri1.musteriTc = 1996;
             musteri1.musteriPara = 1500000;
 
+
             Musteri musteri2 = new Musteri();
             musteri2.musteriAdi = "Honda";
             musteri2.musteriSoyadi = "Nsx";
